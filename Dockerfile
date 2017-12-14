@@ -17,6 +17,7 @@ RUN apk update && \
     openssh \
     ruby-dev \
     ruby-json \
+    postgresql \
     tzdata \
     yaml \
     yaml-dev \
